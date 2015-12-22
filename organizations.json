@@ -1,23 +1,22 @@
-// Organization settings
 {
-	// Full organization name
   "orgFullName": {
     "tapfuse":"TapFuse Limited",
-    "ox2":"ox2"
+    "ox2":"ox2",
+    "play-play":"Play Play"
   },
-	// Short prefixes for components
   "prefix": {
     "tapfuse":"tp",
-    "ox2":"oo"
+    "ox2":"oo",
+    "play-play":"pp"
   },
-  // Org github link
   "gitUrl": {
     "tapfuse":"https://github.com/TapFuse/",
-    "ox2":"https://github.com/ox2/"
+    "ox2":"https://github.com/ox2/",
+    "play-play":"https://github.com/play-play-experiments/"
   },
-  // Github Package name prefix
   "gitPrefix": {
     "tapfuse":"meteor",
-    "ox2":"oo"
+    "ox2":"oo",
+    "play-play":"meteor"
   }
 }
