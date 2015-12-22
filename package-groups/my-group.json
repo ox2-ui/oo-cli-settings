@@ -1,0 +1,13 @@
+{
+  "groups": [
+    {
+      "name": "mygroup",
+      "local": ["namespace:package", "namespace2:package"],
+      "remote": ["namespace:package2", "namespace2:package2"]
+    },
+    {
+      "name": "something",
+      "local": ["namespace:package"]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+// Organization settings
+{
+	// Full organization name
+  "orgFullName": {
+    "tapfuse":"TapFuse Limited",
+    "ox2":"ox2"
+  },
+	// Short prefixes for components
+  "prefix": {
+    "tapfuse":"tp",
+    "ox2":"oo"
+  },
+  // Org github link
+  "gitUrl": {
+    "tapfuse":"https://github.com/TapFuse/",
+    "ox2":"https://github.com/ox2/"
+  },
+  // Github Package name prefix
+  "gitPrefix": {
+    "tapfuse":"meteor",
+    "ox2":"oo"
+  }
+}

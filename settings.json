@@ -1,0 +1,14 @@
+{
+  "commands": {
+    "folder": "oo-commands"
+  },
+  "generators": {
+    "folder": "oo-generators"
+  },
+  "templates": {
+    "folder": "lib/oo-templates"
+  },
+  "packages": {
+    "folder": "/Users/su/Projects/_packages/"
+  }
+}

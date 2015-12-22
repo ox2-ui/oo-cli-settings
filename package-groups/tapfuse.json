@@ -1,0 +1,8 @@
+{
+  "groups": [
+    {
+      "name": "base",
+      "local": ["ox2:normalize", "ox2:typography", "ox2:parts"]
+    }
+  ]
+}
