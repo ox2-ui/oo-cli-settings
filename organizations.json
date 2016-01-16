@@ -10,9 +10,9 @@
     "play-play":"pp"
   },
   "gitUrl": {
-    "tapfuse":"https://github.com/TapFuse/",
-    "ox2":"https://github.com/ox2/",
-    "play-play":"https://github.com/play-play-experiments/"
+    "tapfuse":"TapFuse",
+    "ox2":"ox2",
+    "play-play":"play-play-experiments"
   },
   "gitPrefix": {
     "tapfuse":"meteor",

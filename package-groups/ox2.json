@@ -1,0 +1,13 @@
+{
+  "groups": [
+    {
+      "name": "base-local",
+      "local": ["ox2:normalize", "ox2:typography", "ox2:colors", "ox2:buttons", "ox2:font-roboto", "ox2:font-roboto-condensed"]
+    },
+    {
+      "name": "base",
+      "local": [],
+      "remote": ["ox2:normalize", "ox2:typography", "ox2:colors", "ox2:buttons", "ox2:font-roboto", "ox2:font-roboto-condensed"]
+    }
+  ]
+}
