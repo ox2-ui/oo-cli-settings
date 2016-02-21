@@ -5,6 +5,10 @@
       "local": ["ox2:normalize", "ox2:typography", "ox2:colors", "ox2:buttons", "ox2:font-roboto", "ox2:font-roboto-condensed"]
     },
     {
+      "name": "all-local",
+      "local": ["ox2:auto-login", "ox2:banner", "ox2:buttons", "ox2:chart", "ox2:chartjs", "ox2:colors", "ox2:datetime-picker", "ox2:detective", "ox2:device", "ox2:filesaver", "ox2:flex", "ox2:font-roboto", "ox2:font-roboto-condensed", "ox2:forms", "ox2:google-maps", "ox2:grid", "ox2:helpers", "ox2:inject-style", "ox2:layout", "ox2:loader", "ox2:log-helpers", "ox2:modals", "ox2:normalize", "ox2:panels", "ox2:parts", "ox2:qr", "ox2:qrjs", "ox2:randomcolor", "ox2:scroller", "ox2:sortable", "ox2:tabs", "ox2:temp-cordova", "ox2:text", "ox2:text-display", "ox2:tinycolor", "ox2:typography"]
+    },
+    {
       "name": "base",
       "local": [],
       "remote": ["ox2:normalize", "ox2:typography", "ox2:colors", "ox2:buttons", "ox2:font-roboto", "ox2:font-roboto-condensed"]
