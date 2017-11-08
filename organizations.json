@@ -1,13 +1,13 @@
 {
   "orgFullName": {
-    "tapfuse":"TapFuse Limited",
-    "ox2":"Ox2 Limited",
+    "tapfuse":"TAPFUSE LIMITED",
+    "ox2":"TAPFUSE LIMITED",
     "play-play":"Play Play"
   },
   "prefix": {
-    "tapfuse":"tp",
-    "ox2":"oo",
-    "play-play":"pp"
+    "tapfuse":"",
+    "ox2":"",
+    "play-play":""
   },
   "emoji": {
     "tapfuse":"🥃",
@@ -21,7 +21,7 @@
   },
   "gitPrefix": {
     "tapfuse":"meteor",
-    "ox2":"oo",
+    "ox2":"meteor",
     "play-play":"meteor"
   }
 }
